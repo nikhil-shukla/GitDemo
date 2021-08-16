@@ -14,3 +14,10 @@ import math
 
 assert math.sqrt(4)==3,"Value is wrong"
 print("Validation 4 passed")
+
+
+assert math.sqrt(4)==3,"Value is wrong"
+print("Validation 4 passed")
+
+assert math.sqrt(4)==3,"Value is wrong"
+print("Validation 4 passed")
