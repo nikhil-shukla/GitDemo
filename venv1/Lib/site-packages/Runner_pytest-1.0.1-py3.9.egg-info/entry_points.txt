@@ -1,0 +1,3 @@
+[pytest11]
+runner_pytest_plugin = runner_pytest_plugin
+

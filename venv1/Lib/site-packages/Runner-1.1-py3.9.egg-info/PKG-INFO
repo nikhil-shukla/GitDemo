@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: Runner
+Version: 1.1
+Summary: Simple command runner
+Home-page: https://github.com/mfalesni/Run
+Author: Milan Falešník
+Author-email: milan@falesnik.net
+License: GPLv2
+Description: UNKNOWN
+Keywords: run command bash shell
+Platform: UNKNOWN
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Programming Language :: Unix Shell

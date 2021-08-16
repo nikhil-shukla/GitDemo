@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pythonUtilities
+Version: 0.0.1
+Summary: Python utilities which makes your work with Pandas easy and effective.
+Home-page: https://github.com/gauravshimpi/python_pandas_utilities
+Author: Gaurav Shimpi
+Author-email: shimpigaurav0@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# python_pandas_utilities
+We have created the utilities which helps you working on pandas
+
+

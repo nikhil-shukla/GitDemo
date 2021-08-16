@@ -1,0 +1,21 @@
+1616564551987	geckodriver	INFO	Listening on 127.0.0.1:58037
+1616564554638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shukl\\AppData\\Local\\Temp\\rust_mozprofile1jXZfE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616564559662	Marionette	INFO	Listening on port 58045
+1616564559999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616564567022	Marionette	INFO	Stopped listening on port 58045
+1616564632599	geckodriver	INFO	Listening on 127.0.0.1:58194
+1616564635667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shukl\\AppData\\Local\\Temp\\rust_mozprofileRQaPfo"
+1616564644952	geckodriver	INFO	Listening on 127.0.0.1:58224
+1616564647985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shukl\\AppData\\Local\\Temp\\rust_mozprofile4u163h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616564652182	Marionette	INFO	Listening on port 58257
+1616564652277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616564655475	Marionette	INFO	Stopped listening on port 58257
+[Child 16912, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 16912, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
